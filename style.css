@@ -22,6 +22,7 @@ section{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-color: #000;
 }
 
 .main .content{
@@ -29,7 +30,7 @@ section{
 }
 
 .main .content h2{
-  color: #fff;
+  color: #f6f6f6;
   font-size: 2em;
   font-weight: 500;
 }
